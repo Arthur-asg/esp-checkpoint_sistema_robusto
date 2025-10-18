@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+E:/Arquivos FIAP/ano 5/esp32-robusto/esp32-robusto/build/CMakeFiles/bootloader
+E:/Arquivos FIAP/ano 5/esp32-robusto/esp32-robusto/build/CMakeFiles/bootloader.rule
+E:/Arquivos FIAP/ano 5/esp32-robusto/esp32-robusto/build/CMakeFiles/bootloader-complete.rule
+E:/Arquivos FIAP/ano 5/esp32-robusto/esp32-robusto/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+E:/Arquivos FIAP/ano 5/esp32-robusto/esp32-robusto/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+E:/Arquivos FIAP/ano 5/esp32-robusto/esp32-robusto/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+E:/Arquivos FIAP/ano 5/esp32-robusto/esp32-robusto/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+E:/Arquivos FIAP/ano 5/esp32-robusto/esp32-robusto/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+E:/Arquivos FIAP/ano 5/esp32-robusto/esp32-robusto/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+E:/Arquivos FIAP/ano 5/esp32-robusto/esp32-robusto/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
